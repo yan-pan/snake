@@ -1,0 +1,21 @@
+body{
+	background: url(../image/sy_64766941437.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#sence{
+	width: 600px;
+	height: 600px;
+	margin:0 auto;
+	border:1px solid black;
+	background: black;
+}
+
+.block{
+	width:29px;
+	height:29px;
+	background: white;
+	float:left;
+	margin-right:1px;
+	margin-bottom:1px;
+}
